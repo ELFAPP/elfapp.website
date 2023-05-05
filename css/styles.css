@@ -10129,7 +10129,7 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(25, 50, 92, 0.8) 0%, rgba(25, 50, 92, 0.8) 100%), url("../assets/img/pablita-522.png");
+  background: linear-gradient(to bottom, rgba(25, 50, 92, 0.8) 0%, rgba(25, 50, 92, 0.8) 100%), url("https://elfapp.website/image_assets/pablita-522.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
